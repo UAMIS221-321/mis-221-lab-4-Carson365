@@ -1,0 +1,15 @@
+C:\Users\carso\Documents\Code\MIS221\mis-221-lab-4-Carson365\bin\Debug\net8.0\mis-221-lab-4-Carson365.exe
+C:\Users\carso\Documents\Code\MIS221\mis-221-lab-4-Carson365\bin\Debug\net8.0\mis-221-lab-4-Carson365.deps.json
+C:\Users\carso\Documents\Code\MIS221\mis-221-lab-4-Carson365\bin\Debug\net8.0\mis-221-lab-4-Carson365.runtimeconfig.json
+C:\Users\carso\Documents\Code\MIS221\mis-221-lab-4-Carson365\bin\Debug\net8.0\mis-221-lab-4-Carson365.dll
+C:\Users\carso\Documents\Code\MIS221\mis-221-lab-4-Carson365\bin\Debug\net8.0\mis-221-lab-4-Carson365.pdb
+C:\Users\carso\Documents\Code\MIS221\mis-221-lab-4-Carson365\obj\Debug\net8.0\mis-221-lab-4-Carson365.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carso\Documents\Code\MIS221\mis-221-lab-4-Carson365\obj\Debug\net8.0\mis-221-lab-4-Carson365.AssemblyInfoInputs.cache
+C:\Users\carso\Documents\Code\MIS221\mis-221-lab-4-Carson365\obj\Debug\net8.0\mis-221-lab-4-Carson365.AssemblyInfo.cs
+C:\Users\carso\Documents\Code\MIS221\mis-221-lab-4-Carson365\obj\Debug\net8.0\mis-221-lab-4-Carson365.csproj.CoreCompileInputs.cache
+C:\Users\carso\Documents\Code\MIS221\mis-221-lab-4-Carson365\obj\Debug\net8.0\mis-221-lab-4-Carson365.sourcelink.json
+C:\Users\carso\Documents\Code\MIS221\mis-221-lab-4-Carson365\obj\Debug\net8.0\mis-221-lab-4-Carson365.dll
+C:\Users\carso\Documents\Code\MIS221\mis-221-lab-4-Carson365\obj\Debug\net8.0\refint\mis-221-lab-4-Carson365.dll
+C:\Users\carso\Documents\Code\MIS221\mis-221-lab-4-Carson365\obj\Debug\net8.0\mis-221-lab-4-Carson365.pdb
+C:\Users\carso\Documents\Code\MIS221\mis-221-lab-4-Carson365\obj\Debug\net8.0\mis-221-lab-4-Carson365.genruntimeconfig.cache
+C:\Users\carso\Documents\Code\MIS221\mis-221-lab-4-Carson365\obj\Debug\net8.0\ref\mis-221-lab-4-Carson365.dll
